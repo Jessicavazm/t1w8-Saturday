@@ -1,8 +1,7 @@
 # t1w8-Saturday
 
-# T1W8-Saturday
 # Virtual Environments
-- They help create isolated environemnts for your projects, ensuring each project has its own dependencies.
+- They help create isolated environments for your projects, ensuring each project has its own dependencies.
 
 # Testing
 - Allows us to confirm whether the application works as intended or not.
@@ -11,12 +10,12 @@
 ## Types of Testing
 - Manual vs Automated
     - Manual: When a person manually performs tasks, based on events.
-    - Automated: Programmed tests, also called scripts, to automatically perform tasks without human envolvement.
+    - Automated: Programmed tests, also called scripts, to automatically perform tasks without human involvement.
 
 - Unit testing: Testing specific components/functions/methods
 - Integration testing: Testing the compatibility with other modules/ packages.
 - Chaos testing: Making a program break on purpose by disabling a function or feature to see how errors are handled.
-- Stress testing: Testing in high volue of data/inputs (depending on use-case)
+- Stress testing: Testing in high value of data/inputs (depending on use-case)
 - End to end / Acceptance testing: Testing done towards the end of the project, when its almost complete, to ensure things work effectively.
 
 Note: Great idea to organise your directory structure for maintenance and easy access.
