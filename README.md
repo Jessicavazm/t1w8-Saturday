@@ -55,3 +55,9 @@ Note: Great idea to organise your directory structure for maintenance and easy a
 ## Different file types
 - CSV File: make sure it doesn't contain spaces between values and before header.
 - JSON File
+
+## run.sh
+- To make a sh. file executable, run this command:
+```
+chmod +x run.sh
+```
