@@ -53,5 +53,5 @@ Note: Great idea to organise your directory structure for maintenance and easy a
 - 'with' statement: automatically closes the file when you are done, so you don't need to.
 
 ## Different file types
-- CSV File: make sure it doesn't contain spaces between values.
+- CSV File: make sure it doesn't contain spaces between values and before header.
 - JSON File
